@@ -32,7 +32,7 @@ This Java program detects peaks from an input image, fits Gaussian distributions
 2. Download and install the JFreeChart library (https://www.jfree.org/jfreechart/).
 
 ## Acknowledgements
-**Akshat Kumar** developed this program under **Bosanta Ranjan Boruah** (HOD Physics Department, IIT Guwahati). Thanks to the Apache Commons Math and JFreeChart development teams for their contributions.
+**Akshat Kumar** developed this program under **Bosanta Ranjan Boruah** (HOD Physics Department, IIT Guwahati). 
 
 For questions or inquiries, please contact akshatkumar1712@gmail.com.
 
