@@ -7,6 +7,10 @@ This Java program detects peaks from an input image, fits Gaussian distributions
 - **Peak Detection**: Utilizes algorithms to identify peaks or local maxima within the input image.
 - **Gaussian Fitting**: Fits Gaussian distributions to detected peaks to model their spatial intensity profiles.
 - **Image Reconstruction**: Reconstructs the image by combining the fitted Gaussian distributions.
+  Real Image from Micromanager
+  ![Real Image](https://github.com/k-akshat/STORM/blob/master/img/expected_1.png)
+  Output Image from program
+  ![Image after fitting](https://github.com/k-akshat/STORM/blob/master/img/output_1.png)
 - **Visualization**: Generates scatter plots using JFreeChart to display the fitted peak coordinates.
 - **Customization**: Parameters such as peak detection thresholds and Gaussian fitting parameters can be adjusted to optimize performance.
 
