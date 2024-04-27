@@ -1,4 +1,4 @@
-# Peak Detection and Gaussian Fitting Program to pin point the location of a molecule
+# Peak Detection and Gaussian Fitting Program to pinpoint the location of a molecule
 
 ## Overview
 This Java program detects peaks from an input image, fits Gaussian distributions to these peaks, and reconstructs the image based on the fitted Gaussian parameters. It utilizes the Apache Commons Math library for least squares optimization and JFreeChart for visualization.
@@ -20,11 +20,11 @@ This Java program detects peaks from an input image, fits Gaussian distributions
 - JFreeChart
 
 ## Installation
-1. Download and install Apache Commons Math library (https://commons.apache.org/proper/commons-math/).
-2. Download and install JFreeChart library (https://www.jfree.org/jfreechart/).
+1. Download and install the Apache Commons Math library (https://commons.apache.org/proper/commons-math/).
+2. Download and install the JFreeChart library (https://www.jfree.org/jfreechart/).
 
 ## Acknowledgements
-This program was developed by Akshat Kumar under Bosanta Ranjan Boruah (HOD Physics Department, IIT Guwahati). Special thanks to the Apache Commons Math and JFreeChart development teams for their contributions.
+**Akshat Kumar** developed this program under **Bosanta Ranjan Boruah** (HOD Physics Department, IIT Guwahati). Thanks to the Apache Commons Math and JFreeChart development teams for their contributions.
 
 For questions or inquiries, please contact akshatkumar1712@gmail.com.
 
